@@ -1,0 +1,9 @@
+scripts/data/*
+LICENSE
+README.md
+inverse_rl/*
+tabular_maxent_irl/*
+venv/*
+scripts/Transitions/*
+Predictiton_based_attacks/Transition_Attack_Policy.npy
+Predictiton_based_attacks/Transition_adv_0.npy
